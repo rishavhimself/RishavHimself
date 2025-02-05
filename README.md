@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavhimself&label=Profile%20views&color=0e75b6&style=flat" alt="rishavhimself" /> </p>
 
-- 🌱 I’m currently learning **Java , Python , SQL**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **rishavhimself@gmail.com**
 
